@@ -8,7 +8,7 @@
 | Ana | @AnaTorresR | 197705 |
 | Iván | @IvanSalgadoVel | 197704 |
 | Dira | @diramtz | 197860 |
-| León| @lgarayva| (?) |
+| León| @lgarayva| 148539 |
 
 El objetivo de este proyecto final es explicar el algoritmo Ford-Fulkerson así como los problemas de la vida real que puede solucionarse con este método, explicando también la creación del paquete `ffmaxflow` realizado en la [práctca 1 segunda parte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-diramtz), así como el robustecimiento de nuestro paquete con la ayuda de minikube, kubeflow y kale para posteriormente agilizarlo con el uso de compilación a C para ciertas secciones del código. Finalmente mostraremos los tiempos que tomó correr datos reales obtenidos del repositorio [parallel_ford_fulkerson_gpu](https://github.com/SumitPadhiyar/parallel_ford_fulkerson_gpu/tree/master/dataset) con el paquete original `ffmaxflow` y el paquete creado en C `ffmaxc`.
 
