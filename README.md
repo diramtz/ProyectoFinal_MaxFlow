@@ -24,6 +24,8 @@ En la carpeta [notebooks](https://github.com/diramtz/ProyectoFinal_MaxFlow/tree/
 
 Nuestro repositorio lleva el nombre de [ProyectoFinal_MaxFlow](https://github.com/diramtz/ProyectoFinal_MaxFlow)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diramtz/ProyectoFinal_MaxFlow/HEAD)
+
 **Referencias**
 
 [Práctica 1 primera parte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-primera-parte-diramtz)
