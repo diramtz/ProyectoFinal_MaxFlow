@@ -1,4 +1,5 @@
 pandas
+ffmaxflow
 numpy
 matplotlib
 networkx
