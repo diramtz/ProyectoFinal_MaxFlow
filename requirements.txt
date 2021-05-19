@@ -9,4 +9,3 @@ memory_profiler
 psutil
 Cython
 requests
-timeit
