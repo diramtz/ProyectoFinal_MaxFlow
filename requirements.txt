@@ -8,3 +8,5 @@ line-profiler
 memory_profiler
 psutil
 Cython
+requests
+timeit
