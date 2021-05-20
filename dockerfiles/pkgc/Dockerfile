@@ -29,6 +29,7 @@ RUN pip install $PIP_PACKAGES_KALE --upgrade
 RUN jupyter labextension install kubeflow-kale-labextension
 
 COPY requirements.txt .
+RUN pip3 install pandas
 RUN pip3 install --requirement requirements.txt
 COPY . .
 
