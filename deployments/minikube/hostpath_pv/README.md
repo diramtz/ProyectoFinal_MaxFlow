@@ -46,4 +46,3 @@ kubectl delete deployment -n kubeflow $OPT_JUPYTERLAB_SERVICE
 
 # JUPYTERLAB SERVICE IS USING DOCKER IMAGE FROM NEXT [Dockerfile](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-diramtz/blob/main/dockerfiles/)
 
-
