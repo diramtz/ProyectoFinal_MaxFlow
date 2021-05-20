@@ -17,7 +17,7 @@
 2. [Robustecer](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-primera-parte-diramtz) y [optimizar](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-diramtz) el paquete con compilación a C para mejorar su desempeño y mostrar estas mejoras.
 3. Utilizar el paquete para resolver problemas de la vida real como los problemas de eliminaciones en una liga de baseball, transporte máximo y el de flujo máximo con demanda.
 
-**Trabajo escrito:** [Reporte](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/reporte_equipo_2.ipynb)
+**Trabajo escrito:** [Reporte](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/reporte_final_equipo_2.ipynb)
 
 **Presentación:** [Presentación](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/documentos/Presentacion_ffmf.pdf)
 
