@@ -7,11 +7,7 @@ OPT_LOAD_BALANCER_SERVICE=loadbalancer-opt-0.1-hostpath-pv
 OPT_PV=hostpath-pv
 OPT_PVC=hostpath-pvc
 OPT_JUPYTERLAB_SERVICE=jupyterlab-opt-0.1-hostpath-pv
-<<<<<<< HEAD
-OPT_URL=https://raw.githubusercontent.com/optimizacion-2-2021-1-gh-classroom/practica-2-primera-parte-diramtz/main/deployments/minikube/
-=======
 OPT_URL=https://raw.githubusercontent.com/diramtz/ProyectoFinal_MaxFlow/main/deployments/minikube/
->>>>>>> 5db873af91c6693a9395ab482dac35c405bcca6d
 ```
 
 Create storage:
