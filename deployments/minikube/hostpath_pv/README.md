@@ -7,7 +7,7 @@ OPT_LOAD_BALANCER_SERVICE=loadbalancer-opt-0.1-hostpath-pv
 OPT_PV=hostpath-pv
 OPT_PVC=hostpath-pvc
 OPT_JUPYTERLAB_SERVICE=jupyterlab-opt-0.1-hostpath-pv
-OPT_URL=https://raw.githubusercontent.com/https://github.com/diramtz/ProyectoFinal_MaxFlow/main/deployments/minikube/
+OPT_URL=https://raw.githubusercontent.com/optimizacion-2-2021-1-gh-classroom/practica-2-primera-parte-diramtz/main/deployments/minikube/
 ```
 
 Create storage:
@@ -45,5 +45,4 @@ kubectl delete deployment -n kubeflow $OPT_JUPYTERLAB_SERVICE
 ```
 
 # JUPYTERLAB SERVICE IS USING DOCKER IMAGE FROM NEXT [Dockerfile](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-diramtz/tree/main/dockerfiles)
-
 
