@@ -19,7 +19,7 @@
 
 **Trabajo escrito:** [Reporte](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/reporte_equipo_2.ipynb)
 
-**Presentación:** [Presentación](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/presentacion)   falta
+**Presentación:** [Presentación](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/documentos/Presentacion_ffmf.pdf)
 
 **Implementación:** [código](https://github.com/diramtz/ProyectoFinal_MaxFlow/tree/main/ffmaxc)     
 
