@@ -47,7 +47,6 @@ Antes de correr nuestros ejemplos in la consola de Jupyterlab corre el siguiente
 + [Práctica 1 segunda parte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-diramtz)
 + [Práctica 2 primera parte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-primera-parte-diramtz)
 + [Práctica 2 segunda parte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-segunda-parte-diramtz)
-+ [Documentación de nuestro paquete](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-2-segunda-parte-diramtz/)
 + [Cython Documentation](https://cython.readthedocs.io/en/latest/src/userguide/language_basics.html)
 + [cython-sphinx-example](https://github.com/abingham/cython-sphinx-example)
 + [Max Flow Problem Introduction](https://www.geeksforgeeks.org/max-flow-problem-introduction/)
