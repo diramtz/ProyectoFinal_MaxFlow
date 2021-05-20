@@ -10,6 +10,7 @@
 | Dira | @diramtz | 197860 | Responder preguntas |
 | León| @lgarayva| 148539 | Hacer preguntas |
 
+
 **Objetivos:** 
 
 1. Crear el paquete para python [ffmaxflow](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-diramtz) que utiliza el algoritmo Ford - Fulkerson para hallar el flujo máximo en una red.
@@ -27,12 +28,12 @@
 Nuestro repositorio lleva el nombre de [ProyectoFinal_MaxFlow](https://github.com/diramtz/ProyectoFinal_MaxFlow)
 
 
-**Notebooks de apoyo**
+**Notebooks de apoyo:**
 
 En la carpeta [notebooks](https://github.com/diramtz/ProyectoFinal_MaxFlow/tree/main/notebooks) se encuentra material de apoyo para comprensión del código realizado. En esta carpeta, los notebooks están separados por el tipo de problema que resuelven, contienen contexto del problema así como la correcta utilización de los paquetes `ffmaxflow` y `ffmaxc` para resolverlos y una comparación de sus resultados y sus tiempos de ejecución con la paquetería de `networkx`. Los problemas resueltos son:
 
 + Eliminación en liga de béisbol: Determinar qué equipos son eliminados en cada momento de la temporada, por ejemplo, cuartos de final, octavos de final, final, etc. [Notebook demo](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/notebooks/baseball_elimination.ipynb)
-+ Transporte máximo: Hallar la cantidad máxima de personas que pueden volar de una ciudad a otra. [Notebook demo](
++ Transporte máximo: Hallar la cantidad máxima de personas que pueden volar de una ciudad a otra. [Notebook demo](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/notebooks/airspace_capacity.ipynb)
 + Flujo máximo con demanda: Indica la cantidad de mercancías que deben enviarse por una carretera en particular para satisfacer las demandas [Notebook demo](https://github.com/diramtz/ProyectoFinal_MaxFlow/blob/main/notebooks/circulation_demand_problem.ipynb)
 
 **Binder**
